@@ -17,7 +17,7 @@ import { APP_CONFIG } from '@config';
           </mat-toolbar-row>
         </mat-toolbar>
 
-        <!-- <a routerLink="/auth/register">Not registered?</a> -->
+        <a routerLink="/auth/register">Not registered?</a>
         <button mat-raised-button color="primary" type="submit">
           Login
         </button>
